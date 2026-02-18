@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Blog - Bharat Kumar</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <h1>Blog</h1>
+    <p>Academic Thoughts & Technical Articles</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="blog.html">Blog</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<section>
+
+    <h2>Recent Posts</h2>
+
+    <h3>Understanding Machine Learning Basics</h3>
+    <p>Introduction to supervised and unsupervised learning concepts.</p>
+
+    <h3>Importance of Data Structures in Programming</h3>
+    <p>Why mastering data structures is essential for computer science students.</p>
+
+    <h3>Operating Systems: Process Management Explained</h3>
+    <p>A simple explanation of scheduling and process states.</p>
+
+</section>
+
+<footer>
+    <p>© 2026 Bharat Kumar</p>
+</footer>
+
+</body>
+</html>
